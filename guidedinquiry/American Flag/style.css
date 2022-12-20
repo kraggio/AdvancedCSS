@@ -1,0 +1,26 @@
+html,
+*{
+    margin: 0;
+    padding:0;
+}
+
+.flag{
+    margin:0%;
+    height:500px;
+    width: 800px;
+}
+
+.red{
+    background-color: red;
+    position: relative;
+}
+
+.white{
+    background-color: white;
+    position: relative;
+}
+
+img{
+    position: absolute;
+    margin-top: -500px;
+}
